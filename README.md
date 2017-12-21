@@ -1,4 +1,4 @@
-# qr-code-unity-3d-read-generate
+# qr code unity read and generate
 Generating a QR code / Scanning a QR code in Unity 3D
 
 At least at the time when I needed this feature, there were barely any usable tutorials or QR libraries ready to use for Unity (given the older .net framework it uses).
